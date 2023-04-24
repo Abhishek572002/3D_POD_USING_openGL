@@ -1,5 +1,3 @@
-file:///home/abhishek/Desktop/3D-Modelling%20of%20POD%20IIT%20Indore/Project_Report.pdf
-
 ## 3D Modeling Of POD Building IITI : Computer Graphics Visualization Lab 
 # OpenGL
 
@@ -139,7 +137,7 @@ Mouse based functionalities).
 #### 6).Road creation:We can utilize OpenGL to make unique
 #### meshes and objects for roads, including textures and other visual
 #### components like lane markers, in order to create roadways inside the
-#### city environment. \
+#### city environment. 
 #### 7).Lighting sources:We may design and manage
 #### various lighting sources for the urban area using OpenGL. This covers
 #### spotlighting, point lighting, and directional lighting. The effects that
@@ -159,6 +157,53 @@ Mouse based functionalities).
 #### glutTimerFunc() function used for iteratively redrawing
 #### the cloud structure after every 16 ms duration. 
 ####  glutKeyboardFunc() function used for utilizing the keys in the keyboard.
+
+### [Project_Report.pdf](https://github.com/Abhishek572002/3D_POD_USING_openGL/files/11310408/Project_Report.pdf)
+
+### Front view without light
+![front_view](https://user-images.githubusercontent.com/103774658/233996271-d8a576f8-7b49-4f2d-9b87-c727f019a46e.png)
+### Front view with light
+![front_view_lightining](https://user-images.githubusercontent.com/103774658/233996629-3c4398a3-8c76-42ef-86e2-99afe181e83c.png)
+
+### close View
+![close_view](https://user-images.githubusercontent.com/103774658/233996806-723c30af-d2e2-4ca4-abd4-4eab392fc8aa.png)
+
+### Top View in light
+![top_movement_cam_in_lightining](https://user-images.githubusercontent.com/103774658/233997132-64a90dd9-d4c3-4c0c-9051-63fc60139b02.png)
+
+### Top View without light
+![top_movement_cam](https://user-images.githubusercontent.com/103774658/233997247-69d73184-761b-49b1-9544-dfcb6b5fa7b6.png)
+
+### Left Top View without light
+![right_top_view](https://user-images.githubusercontent.com/103774658/233997463-e8cdf556-05dc-4311-be3f-50e465fa9d13.png)
+
+### Night View
+![night view](https://user-images.githubusercontent.com/103774658/233997636-5ae5426e-939a-453e-bf78-c957a25552e0.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
