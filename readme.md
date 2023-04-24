@@ -46,38 +46,32 @@ Making a 3D model with finished structures, roads, trees, and other items is a p
 ###### 2. GLU (OpenGL Utility Library): It offers a number of useful features not included in the basic OpenGL library. Primitive shapes like spheres, cylinders, and cones can all be drawn using these functions.
 ###### 3. GLM (OpenGL Mathematics) offers classes and functions forcarrying out typical mathematical operations needed in 3D graphics programming, like matrix and vector operations.
 ###### 4. GLUT (OpenGL Utility Toolkit): The task of constructing interactive 3D applications can be made simpler by GLUT\'s set of utilities for handling user input and creating windows.
+###### Window management: When generating and managing windows, GLUToffers tools for adjusting the window\'s size, orientation, and title.User input handling:For handling user input, including keyboard and mouse input, GLUT offers many functions. As a result, We may makedynamic 3D programmes that react to user input. \##### Timer functions:To build animations and other dynamic effects, GLUT has utilities for setting up timers inside the programme. Menu creation:In order to add more functionality and interactivity, GLUT offers tools for building menus inside the programmeMany developers choose to utilise more up-to-date libraries like GLFW because GLUT is an older library that is not actively updated.
 
-###### Window management: When generating and managing windows, GLUToffers tools for adjusting the window\'s size, orientation, and title.User input handling:For handling user input, including keyboard and mouse input, GLUT offers many functions. As a result, We may makedynamic 3D programmes that react to user input. \##### Timer functions:To build animations and other dynamic effects, GLUT has utilities for setting up timers inside the programme.
+#### NOTE: All the functionalities only the keys in the keyboard(No Mouse based functionalities).
 
-##### Menu creation:In order to add more functionality and interactivity, GLUT offers tools for building menus inside the programme
+### KEY CONTROLS:
+##### KEY A : For left shifting the whole Camera. 
+##### KEY D : For right shifting the whole Camera. 
+##### KEY W : For forward shift in the Camera.
+##### KEY S: For backward shift in the Camera. 
+##### KEY T: For downward shift in the Camera. 
+##### KEY G: For upward shift in the Camera. 
+##### KEY Q : For left rotation in the camera. 
+##### KEY E: For right rotation in the camera. 
+##### KEY L: For activating the night light effect.
 
-#### Many developers choose to utilise more up-to-date libraries like GLFW because GLUT is an older library that is not actively updated.
+### KEY CONTROL FUNCTIONALITIES :
+##### 1) on pressing the key 'A' the camera position will move towards the left by 5 units. 
+##### 2) onpressing the key 'D' the camera position will move towards the right by 5 units. 
+##### 3) on pressing the key 'W' the camera position will moveaway by 5 units. 
+##### 4) on pressing the key 'S' the camera positionwill move towards the camera by 5 units. 
+##### 5) on pressing the key 'Q'the camera position will be rotated by 5 degrees in anticlockwise direction.
+##### 6) on pressing the key 'Q' the camera position will be rotated by 5 degrees in clockwise direction.
+##### 7) on pressing the key'T' the camera position will move downwards by 5 units. 
+##### 8) on pressing the key 'G' the camera position will move upwards by 5 units.
 
-### NOTE: All the functionalities only the keys in the keyboard(No Mouse based functionalities).
-
-## KEY CONTROLS:
-
-#### KEY A : For left shifting the whole Camera. 
-#### KEY D : For right shifting the whole Camera. 
-#### KEY W : For forward shift in the Camera.
-#### KEY S: For backward shift in the Camera. 
-#### KEY T: For downward shift in the Camera. 
-#### KEY G: For upward shift in the Camera. 
-#### KEY Q : For left rotation in the camera. 
-#### KEY E: For right rotation in the camera. 
-#### KEY L: For activating the night light effect.
-
-## KEY CONTROL FUNCTIONALITIES :
-#### 1) on pressing the key 'A' the camera position will move towards the left by 5 units. 
-#### 2) onpressing the key 'D' the camera position will move towards the right by 5 units. 
-#### 3) on pressing the key 'W' the camera position will moveaway by 5 units. 
-#### 4) on pressing the key 'S' the camera positionwill move towards the camera by 5 units. 
-#### 5) on pressing the key 'Q'the camera position will be rotated by 5 degrees in anticlockwise direction.
-#### 6) on pressing the key 'Q' the camera position will be rotated by 5 degrees in clockwise direction.
-#### 7) on pressing the key'T' the camera position will move downwards by 5 units. 
-#### 8) on pressing the key 'G' the camera position will move upwards by 5 units.
-
-## Functionalities Implemented 
+### Functionalities Implemented 
 ### The functionalities in POD
 #### construction using OpenGL: 
 ####  1). Building creation: OpenGL can be
