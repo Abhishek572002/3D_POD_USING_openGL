@@ -11,7 +11,7 @@ hardware.
 Use the package manager (sudo apt-get install freeglut3-dev)
 ## Run Command
 use the run command (g++ filename.cpp -lGL -lGLU -lglut)
-
+# Report  file:///home/abhishek/Desktop/3D-Modelling%20of%20POD%20IIT%20Indore/Project_Report.pdf
 # Course Instructor: 
  ## Dr. Somnath Dey ( HOD CSE Department IIT INDORE )
 
@@ -41,19 +41,20 @@ roads and moving clouds. Perspective projection was implemented. We also
 incorporated day and night effects. It also includes camera
 implementation about its own Axis.
 
-# Specifications \#### Making a 3D model with finished structures,
-roads, trees, and other items is a part of POD building using OpenGL. As
-a result, viewers are able to observe and explore this model in
-real-time while looking at the city from various angles and viewpoints.
-The creation of realistic lighting and the simulation of environmental
-elements like the weather (clouds) and the time of day are also possible
-with OpenGL. \## LIBRARIES REQUIRED: \#### 1. OpenGL Library:The
-fundamental library needed to render 3D visuals with OpenGL is this one.
-We can build and work with 3D visuals because of the collection of
-functions and data types it offers. \#### 2. GLU (OpenGL Utility
-Library): It offers a number of useful features not included in the
-basic OpenGL library. Primitive shapes like spheres, cylinders, and
-cones can all be drawn using these functions.
+# Specifications 
+#### Making a 3D model with finished structures,
+#### roads, trees, and other items is a part of POD building using OpenGL. As
+#### a result, viewers are able to observe and explore this model in
+#### real-time while looking at the city from various angles and viewpoints.
+#### The creation of realistic lighting and the simulation of environmental
+#### elements like the weather (clouds) and the time of day are also possible
+#### with OpenGL. \## LIBRARIES REQUIRED: \#### 1. OpenGL Library:The
+#### fundamental library needed to render 3D visuals with OpenGL is this one.
+#### We can build and work with 3D visuals because of the collection of
+#### functions and data types it offers. \#### 2. GLU (OpenGL Utility
+#### Library): It offers a number of useful features not included in the
+#### basic OpenGL library. Primitive shapes like spheres, cylinders, and
+#### cones can all be drawn using these functions.
 
 #### 3. GLM (OpenGL Mathematics) offers classes and functions for
 carrying out typical mathematical operations needed in 3D graphics
@@ -82,12 +83,15 @@ Mouse based functionalities).
 
 # KEY CONTROLS:
 
-## KEY A : For left shifting the whole Camera. \## KEY D : For right
-shifting the whole Camera. \## KEY W : For forward shift in the Camera.
-## KEY S: For backward shift in the Camera. \## KEY T: For downward
-shift in the Camera. \## KEY G: For upward shift in the Camera. \## KEY
-Q : For left rotation in the camera. \## KEY E: For right rotation in
-the camera. \## KEY L: For activating the night light effect.
+## KEY A : For left shifting the whole Camera. 
+## KEY D : For right shifting the whole Camera. 
+## KEY W : For forward shift in the Camera.
+## KEY S: For backward shift in the Camera. 
+## KEY T: For downward shift in the Camera. 
+## KEY G: For upward shift in the Camera. 
+## KEY Q : For left rotation in the camera. 
+## KEY E: For right rotation in the camera. 
+## KEY L: For activating the night light effect.
 
 # KEY CONTROL FUNCTIONALITIES :
 ### 1) on pressing the key 'A' the camera position will move towards the left by 5 units. 
@@ -154,3 +158,7 @@ the camera. \## KEY L: For activating the night light effect.
 #### glutTimerFunc() function used for iteratively redrawing
 #### the cloud structure after every 16 ms duration. 
 ####  glutKeyboardFunc() function used for utilizing the keys in the keyboard.
+
+
+
+
