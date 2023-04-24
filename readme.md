@@ -8,12 +8,9 @@ hardware.
 
 ## Installation
 
-Use the package manager \[sudo apt-get install freeglut3-dev) to install
-foobar.
-
-sudo apt-get install freeglut3-dev 
+Use the package manager (sudo apt-get install freeglut3-dev)
 ## Run Command
-g++ filename.cpp -lGL -lGLU -lglut
+use the run command (g++ filename.cpp -lGL -lGLU -lglut)
 
 # Course Instructor: 
  ## Dr. Somnath Dey ( HOD CSE Department IIT INDORE )
