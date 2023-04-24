@@ -1,5 +1,5 @@
-\## 3D Modeling Of POD Building IITI 0 : Computer Graphics Visualization
-Lab \# OpenGL
+## 3D Modeling Of POD Building IITI 0 : Computer Graphics Visualization
+Lab # OpenGL
 
 OpenGLis a cross-language (language independent), cross-platform
 (platform-independent) API for rendering 2D and 3D Vector Graphics(use
