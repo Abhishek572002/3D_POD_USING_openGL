@@ -18,7 +18,8 @@ use the run command (g++ filename.cpp -lGL -lGLU -lglut)
 ### Likhith Raj DV   - cse200001039@iiti.ac.in 
 ### M.Bhanu Prakash  - cse200001048@iiti.ac.in 
 ### Abhishek Jaiswal - cse200001001@iiti.ac.in
-# Project Report 
+### [Project_Report.pdf](https://github.com/Abhishek572002/3D_POD_USING_openGL/files/11310408/Project_Report.pdf)
+
 # Introduction
 
 Introduction POD modeling is a challenging process that demands careful
@@ -124,8 +125,6 @@ Making a 3D model with finished structures, roads, trees, and other items is a p
 #### glutTimerFunc() function used for iteratively redrawing
 #### the cloud structure after every 16 ms duration. 
 ####  glutKeyboardFunc() function used for utilizing the keys in the keyboard.
-
-### [Project_Report.pdf](https://github.com/Abhishek572002/3D_POD_USING_openGL/files/11310408/Project_Report.pdf)
 
 ### Front view without light
 ![front_view](https://user-images.githubusercontent.com/103774658/233996271-d8a576f8-7b49-4f2d-9b87-c727f019a46e.png)
