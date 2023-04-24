@@ -44,10 +44,10 @@ implementation about its own Axis.
 Making a 3D model with finished structures, roads, trees, and other items is a part of POD building using OpenGL. As a result, viewers are able to observe and explore this model in real-time while looking at the city from various angles and viewpoints.The creation of realistic lighting and the simulation of environmental elements like the weather (clouds) and the time of day are also possible with OpenGL. \## LIBRARIES REQUIRED:
 ###### 1. OpenGL Library:The fundamental library needed to render 3D visuals with OpenGL is this one. We can build and work with 3D visuals because of the collection of functions and data types it offers.
 ###### 2. GLU (OpenGL Utility Library): It offers a number of useful features not included in the basic OpenGL library. Primitive shapes like spheres, cylinders, and cones can all be drawn using these functions.
-#### 3. GLM (OpenGL Mathematics) offers classes and functions forcarrying out typical mathematical operations needed in 3D graphics programming, like matrix and vector operations.
-#### 4. GLUT (OpenGL Utility Toolkit): The task of constructing interactive 3D applications can be made simpler by GLUT\'s set of utilities for handling user input and creating windows.
+###### 3. GLM (OpenGL Mathematics) offers classes and functions forcarrying out typical mathematical operations needed in 3D graphics programming, like matrix and vector operations.
+###### 4. GLUT (OpenGL Utility Toolkit): The task of constructing interactive 3D applications can be made simpler by GLUT\'s set of utilities for handling user input and creating windows.
 
-##### Window management: When generating and managing windows, GLUToffers tools for adjusting the window\'s size, orientation, and title.User input handling:For handling user input, including keyboard and mouse input, GLUT offers many functions. As a result, We may makedynamic 3D programmes that react to user input. \##### Timer functions:To build animations and other dynamic effects, GLUT has utilities for setting up timers inside the programme.
+###### Window management: When generating and managing windows, GLUToffers tools for adjusting the window\'s size, orientation, and title.User input handling:For handling user input, including keyboard and mouse input, GLUT offers many functions. As a result, We may makedynamic 3D programmes that react to user input. \##### Timer functions:To build animations and other dynamic effects, GLUT has utilities for setting up timers inside the programme.
 
 ##### Menu creation:In order to add more functionality and interactivity, GLUT offers tools for building menus inside the programme
 
