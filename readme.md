@@ -1,3 +1,5 @@
+file:///home/abhishek/Desktop/3D-Modelling%20of%20POD%20IIT%20Indore/Project_Report.pdf
+
 ## 3D Modeling Of POD Building IITI : Computer Graphics Visualization Lab 
 # OpenGL
 
@@ -11,8 +13,6 @@ hardware.
 Use the package manager (sudo apt-get install freeglut3-dev)
 ## Run Command
 use the run command (g++ filename.cpp -lGL -lGLU -lglut)
-# Report  
-file:///home/abhishek/Desktop/3D-Modelling%20of%20POD%20IIT%20Indore/Project_Report.pdf
 # Course Instructor: 
  ## Dr. Somnath Dey ( HOD CSE Department IIT INDORE )
 
